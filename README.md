@@ -11,4 +11,5 @@ This is a backend application built using the MERN stack (MongoDB, Express.js,No
 # Your connections
 
 MONGODB_URI=<!-- Your MongoDB connection string -->
+
 JWT_SECRET=<!-- Your JWT secret key -->
