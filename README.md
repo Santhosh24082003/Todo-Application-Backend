@@ -13,3 +13,10 @@ This is a backend application built using the MERN stack (MongoDB, Express.js,No
 MONGODB_URI= Your MongoDB connection string 
 
 JWT_SECRET= Your JWT secret key 
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/mern-todo-backend.git
